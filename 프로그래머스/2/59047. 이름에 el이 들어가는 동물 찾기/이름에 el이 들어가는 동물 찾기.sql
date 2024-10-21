@@ -1,4 +1,3 @@
--- 코드를 입력하세요
 -- AND OR의 우선순위 때문에 OR쪽에 괄호...!
 SELECT ANIMAL_ID
      , NAME
